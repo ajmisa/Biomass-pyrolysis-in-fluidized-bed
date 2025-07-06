@@ -1,6 +1,6 @@
 # Biomass Pyrolysis in a Fluidized Bed Reactor
 
-This repository presents a multi-scale modeling framework for simulating biomass pyrolysis, combining intra-particle transport and reaction phenomena with a 2D fluidized bed (FB) reactor. The project was developed as part of the **6EMA10 Multiphase Reactor Modelling** course at TU/e.
+This repository presents a multi-scale modeling framework for simulating biomass pyrolysis, combining intra-particle transport and reaction phenomena with a 2D fluidized bed (FB) reactor. The project was developed as part of the **6EMA06 Multiphase Reactor Modelling** course at TU/e.
 
 ## Overview
 
