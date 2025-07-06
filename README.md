@@ -32,15 +32,10 @@ Biomass pyrolysis is a thermochemical process for converting organic materials i
 
 ## Results
 
-- Validated particle model against analytical solutions for pure kinetics, convection, and diffusion
+- Verified particle model against analytical solutions for pure kinetics, convection, and diffusion
 - Explored the impact of particle size on intra-particle profiles and volatile yields
 - Simulated 2D reactor species fields showing radial gradients due to limited transport near walls
 - Identified optimal operating regimes for maximizing tar yield while limiting secondary reactions
-
-<p align="center">
-  <img src="images/Particle_DensityR5e-3.png" width="450" alt="Density Evolution in Biomass Particle">
-  <img src="images/Gas and Tar results.png" width="450" alt="2D Tar and Gas Profiles in FB Reactor">
-</p>
 
 ## Repository Contents
 
